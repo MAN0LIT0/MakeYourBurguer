@@ -4,3 +4,8 @@
         <h2>meeeeeeeeeee</h2>        
     </div>
 </template>
+<script>
+export default {
+    name: 'pedidos'
+}
+</script>
